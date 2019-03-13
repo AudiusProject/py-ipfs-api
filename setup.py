@@ -12,7 +12,7 @@ package_data = \
 install_requires = \
 ['requests>=2.2.1', 'six']
 
-setup(name='ipfsapi',
+setup(name='ipfshttpclient',
       version='0.4.3',
       description='Python IPFS API client library',
       author='py-ipfs-api team',
